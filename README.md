@@ -6,8 +6,8 @@ Here's a detailed README file for your GitHub project:
 
 Welcome to the TVC (Thrust Vector Control) Model Rocket Project! This repository contains the design, development, and implementation of a thrust vector-controlled model rocket, including all necessary code, hardware schematics, and data analysis tools.
 
-https://drive.google.com/file/d/1HdGMFX4Kju54oZHvvEa37c0K3YNsIHfM/view?usp=share_link
-
+![IMG_5201](https://github.com/user-attachments/assets/f79279ba-92d7-421b-9616-d9e13f6ccbce)
+![IMG_5140](https://github.com/user-attachments/assets/513478c2-106b-469b-97e0-c7516c5422ec)
 ## Overview
 
 This project aims to develop a model rocket with thrust vector control capabilities, allowing precise maneuverability and stability during flight. The rocket is equipped with sensors, actuators, and a control system designed to maintain its intended flight path and perform controlled maneuvers.
